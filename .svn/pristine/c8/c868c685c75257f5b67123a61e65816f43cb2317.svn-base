@@ -1,0 +1,11 @@
+hash : 
+38acc900ea3a4adf0397e97ba6229a844677b38f : 0.50
+c26696c9ab2155e96b144a8937635ade2d6a7540 : 0.60 rand18, 0.63 rand18
+jo2 is branched off c26696c9ab2155e96b144a8937635ade2d6a7540
+
+
+todo:
+expectimax
+direct inference when enemy is > 5 away
+stalemate them
+particle/caulmann filtering

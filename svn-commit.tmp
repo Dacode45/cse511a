@@ -1,0 +1,17 @@
+
+--This line, and those below, will be ignored--
+
+M    project2/game.pyc
+M    project2/ghostAgents.pyc
+M    project2/graphicsDisplay.pyc
+M    project2/graphicsUtils.pyc
+M    project2/keyboardAgents.pyc
+M    project2/layout.pyc
+M    project2/multiAgents.py
+M    project2/multiAgents.pyc
+M    project2/pacman.pyc
+M    project2/project2.pyproj
+M    project2/search.pyc
+M    project2/searchAgents.pyc
+M    project2/textDisplay.pyc
+M    project2/util.pyc
